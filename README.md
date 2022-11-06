@@ -1,7 +1,7 @@
 # Household Electical Consumption Database
 
 *This is a database on electricity consumption of a household compiled from the site;
-  https://archive.ics.uci.edu/ml/machine-learning-databases/00235/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00235/
 and used to predict electricity usage trends.*
 
 # Features & Functionality
