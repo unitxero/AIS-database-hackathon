@@ -1,4 +1,4 @@
-# AIS-database-hackathon
+# Household Electical Consumption Database
 
 *This is a database on electricity consumption of a household *
 
@@ -19,7 +19,7 @@
 -
 
 
-## Contact Info
+## Baruch AIS Contact Info
 
 | Kevin Camacho | Christian Casino | Ying Mai | Ma. Ana Victoria Nieva |
 | :----: | :---: | :---: | :---: |
