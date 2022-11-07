@@ -1,7 +1,7 @@
 # Household Electical Consumption Database
 
 
-<img src="./src/assets/PowerHack.png" width="200px;" style="margin: 10px"/>
+<img src="https://user-images.githubusercontent.com/100448478/200232514-0119e955-75ab-44d3-8e52-9c5b19df2215.png" width="200px;" style="margin: 10px"/>
 
 *This is a database on electricity consumption of a household compiled from the site;
 https://archive.ics.uci.edu/ml/machine-learning-databases/00235/
