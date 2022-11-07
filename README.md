@@ -1,8 +1,5 @@
 # Household Electical Consumption Database
 
-
-<img src="https://user-images.githubusercontent.com/100448478/200232514-0119e955-75ab-44d3-8e52-9c5b19df2215.png" width="2000px;" style="margin: 10px"/>
-
 *This is a database on electricity consumption of a household compiled from the site;
 https://archive.ics.uci.edu/ml/machine-learning-databases/00235/
 and used to predict electricity usage trends.*
@@ -11,6 +8,9 @@ and used to predict electricity usage trends.*
 - Using the compiled data on electricity voltages during a specific date we can assign a season to that month and date.
 - By doing this, we can then see during which seasons electricity usage is at its highest and lowest.
 - This will help us understand when households are using electricity the most and predict similar trends for the foreseen future.
+
+<img src="https://user-images.githubusercontent.com/100448478/200232514-0119e955-75ab-44d3-8e52-9c5b19df2215.png" width="2000px;" style="margin: 10px"/>
+
 # Uniqueness
 - Capturing electricity trends is Paris, France.
 
