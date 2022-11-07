@@ -9,7 +9,7 @@ and used to predict electricity usage trends.*
 - By doing this, we can then see during which seasons electricity usage is at its highest and lowest.
 - This will help us understand when households are using electricity the most and predict similar trends for the foreseen future.
 
-<img src="https://user-images.githubusercontent.com/100448478/200232514-0119e955-75ab-44d3-8e52-9c5b19df2215.png" width="2000px;" style="margin: 10px"/>
+<img src="https://user-images.githubusercontent.com/100448478/200232514-0119e955-75ab-44d3-8e52-9c5b19df2215.png" width="1000px;" style="margin: 10px"/>
 
 # Uniqueness
 - Capturing electricity trends is Paris, France.
