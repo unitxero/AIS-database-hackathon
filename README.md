@@ -1,5 +1,8 @@
 # Household Electical Consumption Database
 
+
+<img src="./src/assets/PowerHack.png" width="200px;" style="margin: 10px"/>
+
 *This is a database on electricity consumption of a household compiled from the site;
 https://archive.ics.uci.edu/ml/machine-learning-databases/00235/
 and used to predict electricity usage trends.*
